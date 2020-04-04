@@ -7,16 +7,19 @@ Installation:
 - After last line add source ~/path/to/.my_create_command.sh
 - ctrl+o, enter
 - ctrl+x
-- install selenium, python-dotenv, Firefox driver
+- Install selenium: pip install selenium
+- Install python-dotenv: pip install python-dotenv
+- Install Firefox driver: https://github.com/mozilla/geckodriver/releases
 - Create in root file .env
 
 ---
 
 Add in this file:
-user = "username123"
-password = "password123"
-py_path = "/path/to/project/folder"
-driver_path = "/usr/local/bin/"
+
+- user = "username123"
+- password = "password123"
+- py_path = "/path/to/project/folder"
+- driver_path = "/usr/local/bin/"
 
 ---
 
@@ -26,4 +29,4 @@ Firefox driver should be placed in /usr/local/bin/
 
 - Open .bashrc file: https://askubuntu.com/questions/127056/where-is-bashrc
 - Firefox driver: https://github.com/mozilla/geckodriver/releases
-- How to create terminal command: https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e
+- How to create a terminal command: https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e
