@@ -14,7 +14,7 @@ Installation:
 
 ---
 
-Add in this file:
+Add in .env file:
 
 - user = "username123"
 - password = "password123"
