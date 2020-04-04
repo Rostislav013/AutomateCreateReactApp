@@ -30,7 +30,7 @@ def create():
         "//button[contains(text(),'Create repository')]")
     createButton.submit()
     driver.quit()
-    print("Succesfully created repository {}".format(folderName))
+    print("Repository was created {}".format(folderName))
 
 
 if __name__ == "__main__":

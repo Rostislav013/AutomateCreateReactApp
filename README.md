@@ -4,8 +4,8 @@ Installation:
 
 - Open terminal
 - Type nano ~/.bashrc
-- After last line add source ~/path/to/.my_create_command.sh
-- ctrl+o, enter
+- After last line add: source ~/path/to/.my_create_command.sh
+- ctrl+o, press ENTER
 - ctrl+x
 - Install selenium: pip install selenium
 - Install python-dotenv: pip install python-dotenv
