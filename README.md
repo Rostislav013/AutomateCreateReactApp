@@ -1,11 +1,5 @@
 # Project on python to automate creation react app plus initial commit.
 
-Use:
-
-- Open terminal
-- Type "create name", where name is the name of your application to create
-- During process it might ask github username and password
-
 Installation:
 
 - Open terminal
@@ -30,6 +24,16 @@ Add in .env file:
 ---
 
 Firefox driver should be placed in /usr/local/bin/
+
+---
+
+Use:
+
+- Open terminal
+- Type "create name", where name is the name of your application to create
+- During process it might ask github username and password
+
+---
 
 # Helpful links:
 
