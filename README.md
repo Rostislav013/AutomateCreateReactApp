@@ -35,6 +35,8 @@ Use:
 
 ---
 
+Project based on https://www.youtube.com/watch?v=7Y8Ppin12r4&list=PL5tVJtjoxKzqacJbIGbFbNTu7h2v4tsaF&index=2
+
 # Helpful links:
 
 - Open .bashrc file: https://askubuntu.com/questions/127056/where-is-bashrc
